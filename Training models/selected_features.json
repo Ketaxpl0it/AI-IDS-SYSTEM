@@ -1,0 +1,22 @@
+[
+  "Init_Win_bytes_forward",
+  "Fwd Packet Length Max",
+  "Bwd Packet Length Max",
+  "Avg Fwd Segment Size",
+  "Fwd Packet Length Mean",
+  "Subflow Fwd Bytes",
+  "Destination Port",
+  "Avg Bwd Segment Size",
+  "Total Length of Fwd Packets",
+  "act_data_pkt_fwd",
+  "Bwd Header Length",
+  "Bwd Packet Length Min",
+  "Fwd IAT Std",
+  "Fwd IAT Max",
+  "Fwd IAT Total",
+  "Subflow Fwd Packets",
+  "Bwd Packets/s",
+  "Bwd Packet Length Std",
+  "Fwd IAT Mean",
+  "Fwd Header Length.1"
+]

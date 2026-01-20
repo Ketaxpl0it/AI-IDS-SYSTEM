@@ -1,0 +1,14 @@
+# Trained models
+*.pkl
+
+# Datasets
+*.csv
+*.pcap
+
+# Runtime files
+live_alerts.json
+evidence/
+
+# Python cache
+__pycache__/
+*.pyc
