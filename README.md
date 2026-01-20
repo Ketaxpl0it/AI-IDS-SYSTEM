@@ -3,6 +3,16 @@
 An AI-powered Intrusion Detection System (IDS) that monitors live network traffic, detects cyber attacks using Machine Learning and behavior-based rules, maps attacks to the MITRE ATT&CK framework, stores forensic evidence, and provides a real-time dashboard for monitoring alerts.
 
 ---
+## 📊 Dashboard Preview
+
+### 🔹 Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### 🔹 Attacks & Severity Charts
+![Attack Charts](screenshots/attacks_charts.png)
+
+### 🔹 Alerts Timeline
+![Alerts Timeline](screenshots/alerts_timeline.png)
 
 ## 🚀 Features
 
